@@ -1,4 +1,0 @@
-{
-  "message": "<p style='font-size: 18px; color: #ff6600; font-weight: bold; margin-bottom: 5px;'>UPDATE AVAILABLE</p><p style='font-size: 16px;'><a href='https://github.com/postman-cs/kepler/releases/tag/v1.2.2b' style='color: #ff6600; font-weight: bold; text-decoration: none;'>Click here</a></p><p><strong>Oct. 19, 2025:</strong></p><p>Top priority this week: Get your hands dirty - get customers to show you what they do with their APIs.<br><br>Look at the way we have Postman set up internally and use it as a guide.<br><br>Internalize The How to Use Postman guides.</p>","tool_update": "<p class='description'>Foundation Scores (Looker) and performance improvements now available.</p><p class='description'><strong>Roadmap:</strong></p><ul class='description'><li>Automatic cursor CLI setup (automated brief generation by next week?)</li><li>Automated analysis</li><li>Linkedin Integration</li><li>Public News integration</li></ul>",
-  "updated": "2025-10-19T12:00:00Z"
-}
