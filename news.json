@@ -1,5 +1,5 @@
 {
-  "message": "<p style='font-size: 14px; color: #ff6600; font-weight: bold; margin-bottom: 5px;'>Update available on GitHub.</p><p><strong>Oct. 19, 2025:</strong></p><p>Top priority this week: Get your hands dirty - get customers to show you what they do with their APIs.<br><br>Look at the way we have Postman set up internally and use it as a guide.<br><br>Internalize The How to Use Postman guides.</p>",
+  "message": "<p><strong>Oct. 27, 2025:</strong></p><p>Top Priority: Renewal readiness and timeline entries in Gainsight. Keep up the deep discovery; have customers walk you through what it takes to build and test APIs today, and continue to keep the How To Use Postman guides top-of-mind.</p>",
   "tool_update": "<p class='description'>Foundation Scores (Looker) and performance improvements now available.</p><p class='description'><strong>Roadmap:</strong></p><ul class='description'><li>Automatic cursor CLI setup (automated brief generation by next week?)</li><li>Automated analysis</li><li>Linkedin Integration</li><li>Public News integration</li></ul>",
-  "updated": "2025-10-19T12:00:00Z"
+  "updated": "2025-10-27T12:00:00Z"
 }
