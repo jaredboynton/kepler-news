@@ -1,5 +1,5 @@
 {
-  "message": "<p><strong>Oct. 27, 2025:</strong></p><p>Top Priority: Renewal readiness and timeline entries in Gainsight. Keep up the deep discovery; have customers walk you through what it takes to build and test APIs today, and continue to keep the How To Use Postman guides top-of-mind.</p>",
-  "tool_update": "<p class='description'>Foundation Scores (Looker) and performance improvements now available.</p><p class='description'><strong>Roadmap:</strong></p><ul class='description'><li>Automatic cursor CLI setup (automated brief generation by next week?)</li><li>Automated analysis</li><li>Linkedin Integration</li><li>Public News integration</li></ul>",
-  "updated": "2025-10-27T12:00:00Z"
+  "message": "<p><strong>Dec. 1, 2025:</strong></p><p>Hope everyone had a great Thanksgiving! No critical news this week.</p>",
+  "tool_update": "<p class='description'><strong>Auth/HTTP System Rewrite:</strong> The authentication and HTTP client systems have been completely rewritten for improved reliability and performance.</p><p class='description'>Some errors are to be expected, so if you encounter any errors or unexpected behavior, please report them immediately so we can fix them quickly.</p>",
+  "updated": "2025-12-01T12:00:00Z"
 }
