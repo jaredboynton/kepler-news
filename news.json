@@ -1,5 +1,5 @@
 {
-  "message": "<p><strong>Dec. 1, 2025:</strong></p><p>Hope everyone had a great Thanksgiving! No critical news this week.</p>",
-  "tool_update": "<p class='description'><strong>v2.1.0 - Auth/HTTP System Rewrite:</strong> The authentication and HTTP client systems have been completely rewritten for improved reliability and performance.</p><p class='description'>Some errors are to be expected, so if you encounter any errors or unexpected behavior, please report them immediately so we can fix them quickly.</p>",
-  "updated": "2025-12-01T12:00:00Z"
+  "message": "<p><strong>Dec. 10, 2025:</strong></p><p>Focus this week on <strong>Impact Reviews</strong> and identifying/getting ahead of FY25 risk. Use Kepler to analyze customer health signals, communication patterns, and engagement trends to proactively address potential churn or contraction risks.</p>",
+  "tool_update": "<p class='description'><strong>v2.1.6 - Brief Generation Improvements:</strong> Significantly improved brief generation reliability and quality with native structured outputs, optimized summarization (caching, batching, concurrency), and enhanced chat streaming.</p><p class='description'>Additional fixes: Slack API Authorization Bearer headers, Okta domain-specific OAuth config, client-side Ed25519 authentication, deprecation warnings resolved.</p>",
+  "updated": "2025-12-10T12:00:00Z"
 }
