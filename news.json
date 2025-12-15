@@ -1,5 +1,5 @@
 {
-  "message": "<p><strong>Dec. 15, 2025 - Service Outage:</strong></p><p>Gong search is currently not returning results. We are actively investigating and working on a fix.</p>",
+  "message": "<p><strong>Dec. 15, 2025 - We're Back!</strong></p><p>Great news - all Gong search issues have been resolved! The database now contains complete data for all customers from 2020-2025. Thanks for bearing with us, and happy searching! Let me know if you run into any lingering issues. -Jared</p>",
   "tool_update": "<p class='description'><strong>v2.1.6 - Brief Generation Improvements:</strong> Significantly improved brief generation reliability and quality with native structured outputs, optimized summarization (caching, batching, concurrency), and enhanced chat streaming.</p><p class='description'>Additional fixes: Slack API Authorization Bearer headers, Okta domain-specific OAuth config, client-side Ed25519 authentication, deprecation warnings resolved.</p>",
-  "updated": "2025-12-15T17:20:00Z"
+  "updated": "2025-12-15T18:55:00Z"
 }
