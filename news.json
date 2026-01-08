@@ -1,5 +1,5 @@
 {
-  "message": "",
+  "message": "<p><strong>Jan. 8, 2026</strong></p><p>No critical announcements. See tool update below for latest changes.</p>",
   "tool_update": "<p class='description'><strong>v2.2.5:</strong> Semantic search via embeddings for portfolio-wide discovery and cross-customer insights. Dynamic context window adjustment for intelligent response verbosity. CSS architecture overhaul, fixed streaming text duplication, currency symbols now display correctly, improved thinking block UX.</p>",
   "updated": "2026-01-08T00:00:00Z"
 }
