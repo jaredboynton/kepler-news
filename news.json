@@ -1,5 +1,5 @@
 {
-  "message": "<p><strong>Jan. 15, 2026</strong></p><p>No critical announcements. See tool update below for latest changes.</p>",
-  "tool_update": "<p class='description'><strong>v2.2.9:</strong> Canvas/Report Editor for creating and editing rich documents. Delete button for chat session history. Microphone permission check before meeting transcription. Chat tabs navigation and reorganized TitleBar. Fixed markdown list rendering and stream tracking. <strong>Backend:</strong> Jira integration with semantic search. Confluence integration. Tool deduplication to prevent API errors. Auto-disable thinking when history lacks thinking blocks.</p>",
-  "updated": "2026-01-15T00:00:00Z"
+  "message": "<p><strong>Jan. 26, 2026</strong></p><p>No critical announcements. See tool update below for latest changes.</p>",
+  "tool_update": "<p class='description'><strong>v2.2.11:</strong> Fixed chat streaming render jumbling during agent responses. UX quality improvements across the board. Canvas deep-link fixes with UUID validation. Flat routes architecture and Developer Settings panel. Security update for esbuild CORS vulnerability.</p>",
+  "updated": "2026-01-26T00:00:00Z"
 }
