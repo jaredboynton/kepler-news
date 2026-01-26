@@ -1,5 +1,5 @@
 {
   "message": "<p><strong>Jan. 26, 2026</strong></p><p>No critical announcements. See tool update below for latest changes.</p>",
-"tool_update": "<p class='description'><strong>v2.2.11:</strong> Fixed chat streaming render jumbling during agent responses. UX quality improvements across the board. Canvas deep-link fixes with UUID validation. Security update for esbuild CORS vulnerability. <strong>Backend:</strong> ~20% faster response streaming via Bedrock migration. Improved web search. Jira integration with semantic search.</p>",
+"tool_update": "<p class='description'><strong>v2.2.11:</strong> Fixed chat streaming render jumbling during agent responses. UX quality improvements across the board. Canvas improvements. <strong>Backend:</strong> ~20% faster response streaming via Bedrock migration. Improved web search. Jira integration with semantic search.</p>",
   "updated": "2026-01-26T00:00:00Z"
 }
